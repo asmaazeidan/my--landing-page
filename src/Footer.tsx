@@ -1,5 +1,5 @@
 import { Instagram, Facebook, MessageCircle } from 'lucide-react'
-import logo from '../assets/logo.jpg'
+import logo from './logo.jpg'
 
 const quickLinks = [
   { label: 'الرئيسية', href: '#hero' },
