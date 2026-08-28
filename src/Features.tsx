@@ -1,8 +1,8 @@
-import hair from '../assets/hair.jpg'
-import makeup from '../assets/makeup.jpg'
-import skincare from '../assets/skincare.jpg'
-import nails from '../assets/nails.jpg'
-import cafe from '../assets/cafe.jpg'
+import hair from './hair.jpg'
+import makeup from './makeup.jpg'
+import skincare from './skincare.jpg'
+import nails from './nails.jpg'
+import cafe from './cafe.jpg'
 
 const services = [
   { title: 'تسريحات', desc: 'تسريحات مناسبات وتسريحات يومية بأيادٍ خبيرة تلائم إطلالتك.', image: hair },
