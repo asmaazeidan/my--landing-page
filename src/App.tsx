@@ -1,12 +1,12 @@
 import { Helmet } from 'react-helmet-async'
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import AboutUs from './components/AboutUs'
-import Features from './components/Features'
-import Location from './components/Location'
-import ContactUs from './components/ContactUs'
-import ClosingSection from './components/ClosingSection'
-import Footer from './components/Footer'
+import Navbar from './Navbar'
+import Hero from './Hero'
+import AboutUs from './AboutUs'
+import Features from './Features'
+import Location from './Location'
+import ContactUs from './ContactUs'
+import ClosingSection from './ClosingSection'
+import Footer from './Footer'
 
 function App() {
   return (
